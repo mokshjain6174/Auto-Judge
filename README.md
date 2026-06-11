@@ -1,11 +1,9 @@
 # AutoJudge – Programming Problem Difficulty Predictor
 
 ## Author Details
-- Name : Ved Parikh
-- Enrollment No : 24112080
+- Name : Moksh Jain
+- Enrollment No : 24112074
 - Demo Link : https://youtu.be/Z7UbZ2m8rxo
-- Project Report : [AutoJudge Project Report.pdf](https://github.com/user-attachments/files/24451371/AutoJudge.Project.Report.pdf)
-
 
 ## Project Overview
 AutoJudge is a machine learning–based system that predicts the difficulty of programming problems (primarily DSA / Competitive Programming problems) using their textual descriptions. The system classifies problems into three categories — Easy, Medium, and Hard — and also predicts a numeric difficulty score on a scale of 1 to 10.
